@@ -1,0 +1,9 @@
+https://www.kiroule.com/article/start-blogging-with-github-hugo-and-netlify/
+https://www.kiroule.com/article/add-favicon-to-hugo-based-website/
+https://www.kiroule.com/article/automate-index-upload-to-algolia-search/
+https://github.com/Lednerb/bilberry-hugo-theme#Configuration
+
+EDIT
+./page
+./page/about-bilberry.md
+./page/github.md
