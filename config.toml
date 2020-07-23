@@ -118,7 +118,7 @@ googleAnalytics = ""
       { link = "https://lichess.org/@/clem9669", icon = "fas fa-chess-knight"}
     ]
 
-    credits line configuration
+    #credits line configuration
     copyrightBy = "by clem"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
