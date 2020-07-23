@@ -112,19 +112,19 @@ googleAnalytics = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "mailto:clem96692@protonmail.ch", icon = "fas fa-at" },
+      { link = "mailto:Y2xlbTk2NjkyQHByb3Rvbm1haWwuY2gK", icon = "fas fa-at" },
       { link = "https://github.com/clem9669", icon = "fab fa-github" },
       { link = "https://www.hackthebox.eu/home/users/profile/71810", icon = "fas fa-h-square"},
       { link = "https://lichess.org/@/clem9669", icon = "fas fa-chess-knight"}
     ]
 
-    # credits line configuration
-    # copyrightBy = "by clem"
-    # copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    # copyrightYearOverride = "1999"
-    # copyrightUrl = "exm.rf"
-    # creditsText = "Bzaerilberry Hugo Theme"
-    # creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    credits line configuration
+    copyrightBy = "by clem"
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
+    copyrightYearOverride = "2020"
+    copyrightUrl = "https://exmaple.org"
+    creditsText = "Bzaerilberry Hugo Theme"
+    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
 # customize your available languages for your multi-langual site
