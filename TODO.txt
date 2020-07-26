@@ -7,3 +7,7 @@ EDIT
 ./page
 ./page/about-bilberry.md
 ./page/github.md
+
+Foot copyright cassé
+
+GET a link to blog from / and vice versa
