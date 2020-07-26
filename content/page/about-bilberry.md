@@ -1,6 +1,6 @@
 ---
 title: "About Bilberry"
-date: 2017-11-01T13:18:45+01:00
+date: 2020-07-26T19:28:52+02:00
 excludeFromTopNav: false
 showDate: false
 ---
