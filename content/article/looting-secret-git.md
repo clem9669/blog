@@ -20,7 +20,7 @@ I will compare the best of 3 tools (*imo*) for secret findings, usefull in OSINT
 ---
 
 
-# 1. [SHHGIT](#SHHGIT)
+# 1. SHHGIT
 
 > Identify secret tokens within committed code in real-time:
 > https://shhgit.darkport.co.uk/
@@ -44,7 +44,7 @@ However, if you focus on a repo or user, you won't be able to do much. This is w
 ![](https://raw.githubusercontent.com/eth0izzle/shhgit/master/images/shhgit-live-example.png)
 
 
-# 2. [GitLeaks](#GitLeaks)
+# 2. GitLeaks
 
 > Gitleaks aims to be the easy-to-use, all-in-one solution for finding secrets, past or present, in your code:
 > https://github.com/zricethezav/gitleaks
@@ -84,7 +84,7 @@ WARN[2020-04-28T13:00:35-04:00] 6 leaks detected. 33 commits audited in 77 milli
 ```
 
 
-# 3. [truffleHog](#truffleHog)
+# 3. truffleHog
 
 > GSearches through git repositories for secrets, digging deep into commit history and branches:
 > https://github.com/dxa4481/truffleHog
